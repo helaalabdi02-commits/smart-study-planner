@@ -1,0 +1,122 @@
+[
+    {
+        "timestamp": "2026-09-11 18:52:22",
+        "event": "registration",
+        "details": "Emmaus Solomon (UV0077) registered"
+    },
+    {
+        "timestamp": "2026-09-11 18:52:31",
+        "event": "allocation",
+        "details": "UV0077 allocated to Block A - A01"
+    },
+    {
+        "timestamp": "2026-09-11 18:53:14",
+        "event": "payment",
+        "details": "Emmaus Solomon paid $200.0"
+    },
+    {
+        "timestamp": "2026-09-11 19:59:51",
+        "event": "registration",
+        "details": "Emmaus Solomon (UV0033) registered"
+    },
+    {
+        "timestamp": "2026-09-11 19:59:59",
+        "event": "allocation",
+        "details": "UV0033 allocated to Block A - A01"
+    },
+    {
+        "timestamp": "2026-09-11 20:00:18",
+        "event": "payment",
+        "details": "Emmaus Solomon paid $200.0"
+    },
+    {
+        "timestamp": "2026-09-11 20:01:13",
+        "event": "save",
+        "details": "1 students, 1/18 beds occupied"
+    },
+    {
+        "timestamp": "2026-09-11 20:01:15",
+        "event": "save",
+        "details": "1 students, 1/18 beds occupied"
+    },
+    {
+        "timestamp": "2026-09-11 20:34:31",
+        "event": "registration",
+        "details": "James John (UV0087) registered"
+    },
+    {
+        "timestamp": "2026-09-11 20:35:19",
+        "event": "allocation",
+        "details": "UV0087 allocated to Block A - A01"
+    },
+    {
+        "timestamp": "2026-09-11 20:37:41",
+        "event": "allocation",
+        "details": "UV0087 allocated to Block B - B01"
+    },
+    {
+        "timestamp": "2026-09-11 20:45:40",
+        "event": "registration",
+        "details": "KAWUMA Abdulkarim (UV0098) registered"
+    },
+    {
+        "timestamp": "2026-09-11 20:46:14",
+        "event": "allocation",
+        "details": "UV0098 allocated to Block A - A01"
+    },
+    {
+        "timestamp": "2026-09-11 20:47:16",
+        "event": "registration",
+        "details": "MUGISHA Fred (UV0056) registered"
+    },
+    {
+        "timestamp": "2026-09-11 20:47:28",
+        "event": "allocation",
+        "details": "UV0056 allocated to Block A - A01"
+    },
+    {
+        "timestamp": "2026-09-11 20:48:18",
+        "event": "registration",
+        "details": "ADONGO Ether Joyce (UV0076) registered"
+    },
+    {
+        "timestamp": "2026-09-11 20:48:31",
+        "event": "allocation",
+        "details": "UV0076 allocated to Block B - B01"
+    },
+    {
+        "timestamp": "2026-09-11 20:51:19",
+        "event": "payment",
+        "details": "KAWUMA Abdulkarim paid $100.0"
+    },
+    {
+        "timestamp": "2026-09-11 20:52:03",
+        "event": "payment",
+        "details": "James John paid $50.0"
+    },
+    {
+        "timestamp": "2026-09-11 21:07:58",
+        "event": "registration",
+        "details": "Emmaus Solomon (UV0074) registered"
+    },
+    {
+        "timestamp": "2026-09-11 21:08:08",
+        "event": "allocation",
+        "details": "UV0074 allocated to Block C - C01"
+    },
+    {
+        "timestamp": "2026-09-11 21:11:01",
+        "event": "save",
+        "details": "6 students, 6/18 beds occupied"
+    },
+    {
+        "timestamp": "2026-09-11 21:12:22",
+        "event": "save",
+        "details": "6 students, 6/18 beds occupied"
+    },
+    {
+        "timestamp": "2026-09-11 21:20:34",
+        "event": "save",
+        "details": "6 students, 6/18 beds occupied"
+    }
+]
